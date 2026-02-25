@@ -1,0 +1,15 @@
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/repository/FeeCollectionRepository.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/repository/StudentRepository.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/controller/FeeCollectionController.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/controller/StudentController.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/dto/ApiResponse.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/dto/FeeCollectionDTO.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/dto/ReceiptDTO.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/dto/StudentDTO.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/entity/FeeCollection.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/entity/Receipt.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/entity/Student.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/service/FeeCollectionRepository.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/service/FeeCollectionService.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/service/StudentService.java
+/Users/akashkasar/Desktop/AkashWorkspace/student-management-service/src/main/java/com/studentmgmt/service/impl/FeeCollectionServiceImpl.java
